@@ -1,2 +1,2 @@
-- Harshit Varhat
+- Harshit
 
