@@ -1,4 +1,7 @@
+- Chakshu
 - Harsh Sharma
 - Prayag Bhalodia
-VedanshuMeharia
--Harshit Varhat  
+- VedanshuMeharia
+- Chaitanya Garg
+- Ashish Pandey
+- Harshit Varhat
